@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "743866500556",
+    "firebase_url": "https://onilneshop.firebaseio.com",
+    "project_id": "onilneshop",
+    "storage_bucket": "onilneshop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743866500556:android:0b7893a2e5f90bdd7e0969",
+        "android_client_info": {
+          "package_name": "com.example.onlineshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743866500556-kc0ktr5ovlsuesj2gcs19e2h1acie2jm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.onlineshop",
+            "certificate_hash": "cc07f03297b4dc9269b6dbf795009644720dc3c0"
+          }
+        },
+        {
+          "client_id": "743866500556-7b4fj0v15v739qoqhf1kncoleeqhkn6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4z5fO8c3XLr8CF4SdguDxt13GlnrKx_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743866500556-7b4fj0v15v739qoqhf1kncoleeqhkn6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
